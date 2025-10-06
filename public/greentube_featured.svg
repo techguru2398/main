@@ -1,0 +1,48 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#050808"/>
+  <path d="M0 760L1600 520V900H0V760Z" fill="#101F10"/>
+  <g opacity="0.8">
+    <path d="M200 240H600V660H200V240Z" fill="#111A11" stroke="#44F372" stroke-width="4"/>
+    <path d="M220 260H580V480H220V260Z" fill="#090C09"/>
+    <path d="M220 500H580V620H220V500Z" fill="#090C09"/>
+    <text x="400" y="540" fill="#44F372" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="36" font-weight="bold">Featured Games</text>
+    <text x="400" y="586" fill="white" opacity="0.7" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="20">CMS-powered grid with telemetry overlays</text>
+  </g>
+  <g filter="url(#filter0_d)">
+    <rect x="680" y="240" width="360" height="220" rx="28" fill="#0F0F10" stroke="#44F372" stroke-width="4"/>
+    <text x="860" y="310" fill="#44F372" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="32" font-weight="bold">Dynamic Slots</text>
+    <text x="860" y="360" fill="white" opacity="0.75" text-anchor="middle" font-size="20">Live content rotation via Contentful</text>
+    <text x="860" y="400" fill="#44F372" text-anchor="middle" font-size="18">++ Personalization middleware</text>
+  </g>
+  <g filter="url(#filter1_d)">
+    <rect x="1080" y="240" width="320" height="220" rx="24" fill="#0F0F10" stroke="#44F372" stroke-width="4"/>
+    <text x="1240" y="310" fill="#44F372" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="28" font-weight="bold">Telemetry HUD</text>
+    <text x="1240" y="360" fill="white" opacity="0.75" text-anchor="middle" font-size="20">Real-time engagement overlays</text>
+    <text x="1240" y="400" fill="#44F372" text-anchor="middle" font-size="18">++ Cloudflare Workers</text>
+  </g>
+  <text x="160" y="160" fill="#44F372" font-family="'Segoe UI', sans-serif" font-size="56" font-weight="900">GREENTUBE FEATURED HUB</text>
+  <text x="160" y="210" fill="white" opacity="0.72" font-family="'Segoe UI', sans-serif" font-size="26">Frictionless editorial workflows, pixel-perfect play walls.</text>
+  <defs>
+    <filter id="filter0_d" x="656" y="216" width="408" height="268" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="8"/>
+      <feGaussianBlur stdDeviation="12"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0863 0 0 0 0 0.5333 0 0 0 0 0.2902 0 0 0 0.35 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <filter id="filter1_d" x="1056" y="216" width="368" height="268" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="8"/>
+      <feGaussianBlur stdDeviation="12"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0863 0 0 0 0 0.5333 0 0 0 0 0.2902 0 0 0 0.35 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+

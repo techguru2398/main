@@ -1,0 +1,61 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#2B0B50"/>
+  <path d="M0 720C200 640 340 680 540 620C740 560 860 420 1040 400C1200 382 1340 430 1600 380V900H0V720Z" fill="url(#paint0_linear)"/>
+  <g opacity="0.5" filter="url(#filter0_f)">
+    <ellipse cx="480" cy="360" rx="240" ry="130" fill="#F0B90B"/>
+  </g>
+  <g opacity="0.6" filter="url(#filter1_f)">
+    <ellipse cx="1180" cy="300" rx="260" ry="150" fill="#9C4DFF"/>
+  </g>
+  <g filter="url(#filter2_d)">
+    <rect x="260" y="300" width="360" height="420" rx="40" fill="#3C1361" stroke="#F0B90B" stroke-width="6"/>
+    <circle cx="440" cy="420" r="96" fill="#F0B90B"/>
+    <circle cx="440" cy="420" r="56" fill="#3C1361"/>
+    <text x="440" y="540" text-anchor="middle" fill="white" font-family="'Segoe UI', sans-serif" font-size="32" font-weight="bold">Loyalty XP</text>
+    <text x="440" y="586" text-anchor="middle" fill="#F0B90B" font-family="'Segoe UI', sans-serif" font-size="20">Real-time rewards engine</text>
+  </g>
+  <g filter="url(#filter3_d)">
+    <rect x="700" y="320" width="580" height="200" rx="24" fill="#3C1361" stroke="#F0B90B" stroke-width="4"/>
+    <text x="990" y="386" fill="#F0B90B" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="34" font-weight="bold">Casino Purple Loyalty Experience</text>
+    <text x="990" y="436" fill="white" opacity="0.82" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="22">Gamified progression, onboarding journeys, dynamic bonuses.</text>
+  </g>
+  <text x="160" y="160" fill="#F0B90B" font-family="'Segoe UI', sans-serif" font-size="56" font-weight="900">CASINO PURPLE</text>
+  <text x="160" y="212" fill="white" opacity="0.8" font-family="'Segoe UI', sans-serif" font-size="28">Premium loyalty ecosystem with cinematic visuals and instant feedback.</text>
+  <defs>
+    <filter id="filter0_f" x="80" y="110" width="800" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="90" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="filter1_f" x="760" y="-60" width="840" height="720" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="120" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="filter2_d" x="220" y="260" width="440" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="16"/>
+      <feGaussianBlur stdDeviation="20"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.52 0 0 0 0 0.3067 0 0 0 0 0.75 0 0 0 0.4 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <filter id="filter3_d" x="676" y="296" width="628" height="248" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="12"/>
+      <feGaussianBlur stdDeviation="14"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.52 0 0 0 0 0.3067 0 0 0 0 0.75 0 0 0 0.3 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <linearGradient id="paint0_linear" x1="800" y1="380" x2="800" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6A1FB6" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#1A042F"/>
+    </linearGradient>
+  </defs>
+</svg>
+

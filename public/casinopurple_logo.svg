@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="24" fill="#3B1C69"/>
+  <path d="M50 136C50 120.536 62.536 108 78 108H122C137.464 108 150 120.536 150 136" stroke="#FFB800" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="100" cy="88" r="28" fill="#FFB800"/>
+  <circle cx="100" cy="88" r="18" fill="#3B1C69"/>
+  <path d="M76 64C76 51.2975 86.2975 41 99 41H101C113.703 41 124 51.2975 124 64" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <rect x="74" y="132" width="52" height="16" rx="8" fill="white"/>
+  <text x="100" y="145" text-anchor="middle" fill="#3B1C69" font-family="Arial" font-size="10" font-weight="bold">CASINO</text>
+</svg>
+

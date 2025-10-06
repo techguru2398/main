@@ -1,0 +1,60 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#10122B"/>
+  <path d="M0 680C180 560 360 640 520 600C720 550 780 360 960 320C1180 270 1280 440 1460 420C1540 412 1600 360 1600 360V900H0V680Z" fill="url(#paint0_linear)"/>
+  <g opacity="0.4" filter="url(#filter0_f)">
+    <ellipse cx="400" cy="340" rx="220" ry="120" fill="#1B7CFF"/>
+  </g>
+  <g opacity="0.4" filter="url(#filter1_f)">
+    <ellipse cx="1180" cy="260" rx="260" ry="140" fill="#FF4B9A"/>
+  </g>
+  <g filter="url(#filter2_d)">
+    <path d="M360 420C360 351.725 415.725 296 484 296H764C832.275 296 888 351.725 888 420V508C888 576.275 832.275 632 764 632H484C415.725 632 360 576.275 360 508V420Z" fill="#161B3A" stroke="#23F076" stroke-width="8"/>
+    <path d="M444 388H708C732.301 388 752 407.699 752 432V468C752 492.301 732.301 512 708 512H444C419.699 512 400 492.301 400 468V432C400 407.699 419.699 388 444 388Z" fill="#11162F"/>
+    <text x="572" y="452" text-anchor="middle" fill="white" font-family="'Segoe UI', sans-serif" font-size="44" font-weight="bold">LET THE SLOTS PLAY ON YOUR SIDE</text>
+    <text x="572" y="502" text-anchor="middle" fill="#23F076" font-family="'Segoe UI', sans-serif" font-size="24">GameBeat Conversion Campaign</text>
+  </g>
+  <g filter="url(#filter3_d)">
+    <circle cx="1220" cy="520" r="160" fill="#FF4B9A"/>
+    <path d="M1220 420C1170 420 1130 460 1130 510C1130 560 1170 600 1220 600C1270 600 1310 560 1310 510C1310 460 1270 420 1220 420Z" stroke="white" stroke-width="16"/>
+    <path d="M1188 496C1188 480.536 1200.54 468 1216 468H1224C1239.46 468 1252 480.536 1252 496V516H1188V496Z" fill="white"/>
+  </g>
+  <text x="110" y="160" fill="#23F076" font-family="'Segoe UI', sans-serif" font-size="60" font-weight="900">GAMEBEAT PLATFORM</text>
+  <text x="110" y="228" fill="white" opacity="0.72" font-family="'Segoe UI', sans-serif" font-size="28">Immersive storytelling, motion-driven experiences, and growth marketing in sync.</text>
+  <defs>
+    <filter id="filter0_f" x="40" y="60" width="720" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="80" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="filter1_f" x="760" y="-60" width="840" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="120" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="filter2_d" x="316" y="252" width="616" height="424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="12"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.1373 0 0 0 0 0.5333 0 0 0 0 0.3137 0 0 0 0.4 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <filter id="filter3_d" x="1008" y="352" width="424" height="424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="16"/>
+      <feGaussianBlur stdDeviation="24"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.349 0 0 0 0 0.1098 0 0 0 0 0.3843 0 0 0 0.35 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <linearGradient id="paint0_linear" x1="800" y1="320" x2="800" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6C2CF3" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#060915"/>
+    </linearGradient>
+  </defs>
+</svg>
+
