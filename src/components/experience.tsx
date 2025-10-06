@@ -1,6 +1,5 @@
 import { Badge } from "@/components/ui/badge"
 import { Card, CardContent, CardHeader } from "@/components/ui/card"
-import { Separator } from "@/components/ui/separator"
 import { companies } from "@/utils/resume-data"
 import { Briefcase } from "lucide-react"
 import Image from "next/image"
